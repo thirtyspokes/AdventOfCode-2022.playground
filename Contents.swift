@@ -1,10 +1,11 @@
-import Cocoa
+DayOne().partOne()
+DayOne().partTwo()
 
-DayOne().partOne();
-DayOne().partTwo();
+DayTwo().partOne()
+DayTwo().partTwo()
 
-DayTwo().partOne();
-DayTwo().partTwo();
+DayThree().partOne()
+DayThree().partTwo()
 
-DayThree().partOne();
-DayThree().partTwo();
+DayFour().partOne()
+DayFour().partTwo()
